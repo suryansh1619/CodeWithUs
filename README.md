@@ -2,7 +2,7 @@
 
 **CodeWithUs** is a real-time collaborative code editor that allows multiple users to code, chat, and collaborate seamlessly in the browser. It comes with powerful features like live code sharing, chat, file uploads/downloads, customizable themes, font settings, and multi-language support. 
 
-You can view the live preview of the project [CodeWithUs Live]().
+You can view the live preview of the project [CodeWithUs Live](https://codewithus-rho.vercel.app/).
 
 ---
 
